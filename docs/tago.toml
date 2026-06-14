@@ -1,0 +1,10 @@
+title       = "alphavantage"
+baseURL     = "https://alphavantage-cli.tamnd.com/"
+description = "A command line for the Alpha Vantage financial data API."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/alphavantage-cli"
